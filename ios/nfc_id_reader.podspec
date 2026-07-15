@@ -4,7 +4,7 @@
 #
 Pod::Spec.new do |s|
   s.name             = 'nfc_id_reader'
-  s.version          = '0.0.1'
+  s.version          = '0.0.2'
   s.summary          = 'A Flutter plugin for reading NFC-enabled IDs and ePassports.'
   s.description      = <<-DESC
 A Flutter plugin for reading NFC-enabled IDs and ePassports.
