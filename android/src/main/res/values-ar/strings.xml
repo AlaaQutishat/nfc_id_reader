@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nfc_ready_title">جاهز للمسح</string>
+    <string name="nfc_ready_desc">قرّب بطاقتك من ظهر الهاتف.</string>
+    <string name="nfc_reading_title">جارٍ قراءة البطاقة...</string>
+    <string name="nfc_reading_desc">أبقِ بطاقتك ثابتة بالقرب من الهاتف.</string>
+    <string name="nfc_auth_title">جارٍ المصادقة...</string>
+    <string name="nfc_auth_desc">التحقق من معلومات البطاقة.</string>
+    <string name="nfc_success_title">اكتمل المسح</string>
+    <string name="nfc_success_desc">تم التحقق من البطاقة بنجاح.</string>
+    <string name="nfc_error_title">فشل المسح</string>
+    <string name="nfc_error_desc">تعذر قراءة البطاقة. حاول مجدداً.</string>
+    <string name="nfc_cancel">إلغاء</string>
+    <string name="nfc_done">تم</string>
+    <string name="nfc_close">إغلاق</string>
+</resources>

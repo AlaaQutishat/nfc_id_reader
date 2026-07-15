@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nfc_ready_title">Ready to Scan</string>
+    <string name="nfc_ready_desc">Hold your card near the back of your phone.</string>
+    <string name="nfc_reading_title">Reading Card...</string>
+    <string name="nfc_reading_desc">Keep your card steady near your phone.</string>
+    <string name="nfc_auth_title">Authenticating...</string>
+    <string name="nfc_auth_desc">Verifying card information.</string>
+    <string name="nfc_success_title">Scan Complete</string>
+    <string name="nfc_success_desc">Card successfully verified.</string>
+    <string name="nfc_error_title">Scan Failed</string>
+    <string name="nfc_error_desc">Could not read card. Try again.</string>
+    <string name="nfc_cancel">Cancel</string>
+    <string name="nfc_done">Done</string>
+    <string name="nfc_close">Close</string>
+</resources>
