@@ -1,6 +1,6 @@
 # nfc_id_reader
 
-A new Flutter plugin project.
+A Flutter plugin for reading NFC-enabled IDs and ePassports.
 
 ## Getting Started
 

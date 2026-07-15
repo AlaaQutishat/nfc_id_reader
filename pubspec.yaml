@@ -1,7 +1,8 @@
 name: nfc_id_reader
-description: "A new Flutter plugin project."
+description: "A Flutter plugin for reading NFC-enabled IDs and ePassports."
 version: 0.0.1
-homepage:
+homepage: https://github.com/AlaaQutishat/nfc_id_reader
+repository: https://github.com/AlaaQutishat/nfc_id_reader
 
 environment:
   sdk: ^3.9.2

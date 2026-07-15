@@ -5,9 +5,9 @@
 Pod::Spec.new do |s|
   s.name             = 'nfc_id_reader'
   s.version          = '0.0.1'
-  s.summary          = 'A new Flutter plugin project.'
+  s.summary          = 'A Flutter plugin for reading NFC-enabled IDs and ePassports.'
   s.description      = <<-DESC
-A new Flutter plugin project.
+A Flutter plugin for reading NFC-enabled IDs and ePassports.
                        DESC
   s.homepage         = 'http://example.com'
   s.license          = { :file => '../LICENSE' }
