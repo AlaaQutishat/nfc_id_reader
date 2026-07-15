@@ -8,8 +8,7 @@ abstract class NfcIdReaderPluginPlatform extends PlatformInterface {
 
   static final Object _token = Object();
 
-  static NfcIdReaderPluginPlatform _instance =
-      MethodChannelNfcIdReaderPlugin();
+  static NfcIdReaderPluginPlatform _instance = MethodChannelNfcIdReaderPlugin();
 
   /// The default instance of [NfcIdReaderPluginPlatform] to use.
   ///

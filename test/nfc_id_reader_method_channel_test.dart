@@ -5,8 +5,7 @@ import 'package:nfc_id_reader/nfc_id_reader_method_channel.dart';
 void main() {
   TestWidgetsFlutterBinding.ensureInitialized();
 
-  MethodChannelNfcIdReaderPlugin platform =
-      MethodChannelNfcIdReaderPlugin();
+  MethodChannelNfcIdReaderPlugin platform = MethodChannelNfcIdReaderPlugin();
   const MethodChannel channel = MethodChannel('nfc_id_reader');
 
   setUp(() {
